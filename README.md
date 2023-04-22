@@ -21,7 +21,7 @@ touch default.json
   "PORT": 8888, // Port
   "IG_USERNAME": "username", // Insta UserName
   "IG_PASSWORD": "password", // Insta Password
-  "Client_ID": "8439" // Imagur CliendID
+  "Client_ID": "8439" // Imgur CliendID
 }
 ```
 
