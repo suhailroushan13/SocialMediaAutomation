@@ -1,0 +1,8 @@
+{
+    "URL": "http://auto.csprojects.live",
+    "DB_URI": "mongodb+srv://USER:PASS@automilt.qdfhv0y.mongodb.net/SocialMedia",
+    "PORT": 8888,
+    "IG_USERNAME": "username",
+    "IG_PASSWORD": "password",
+    "Client_ID": "imgurID"
+}

@@ -1,0 +1,22 @@
+{
+    "URL": "http://192.168.0.211:8888",
+    "DB_URI": "mongodb+srv://USER:PASS@automilt.qdfhv0y.mongodb.net/SocialMedia",
+    "PORT": 8888,
+    "PATH": "/home/suhail/Cloud-Auto/server",
+    "IG_USERNAME": "username",
+    "IG_PASSWORD": "password",
+    "Client_ID": "imgurID",
+    "EMAIL_SMTP": {
+        "HOST": "cpl12.main-hosting.eu",
+        "AUTH": {
+            "USER": "webmail",
+            "PASS": "password"
+        },
+        "PORT": 465
+    },
+    "SEND_SMS": {
+        "TWILIO_SID": "SID",
+        "TWILIO_TOKEN": "TOKEN",
+        "TWILIO_NUMBER": "NUMBER"
+    }
+}
