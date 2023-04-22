@@ -5,6 +5,7 @@
 ```bash
 git clone git@github.com:suhailroushan13/SocialMedia-Automation.git
 cd SocialMedia-Automation
+cd server
 mkdir config
 cd config
 touch default.json
